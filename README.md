@@ -2,7 +2,7 @@
 Here you can add your name! =D
 
 ## 1 - Alex
-### 2 - 
+### 2 - Chris
 #### 3 -
 ##### 4 - 
 ###### 5 - 
